@@ -1,0 +1,185 @@
+.container{
+    width: 100%;
+    height: auto;
+    background: white;
+}
+body{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    background:  #00ae44;
+    border-bottom: 1px white solid;
+    padding: 15px 2px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+} 
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.ul1{
+    font-size: 25px;
+}
+  a{
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font: 400 20px / 1.2 "Nobel", Helvetica, Arial, sans-serif;
+}
+.social-image{
+    height: 29px;
+    width: 29px;
+}
+.logo1{   
+    padding-left: 22px;
+    width: 90px
+}
+.content-img1{
+    width: 100%;
+    vertical-align: middle;
+}
+.text-banner{
+    position: absolute;
+    top: 314px;
+    left: 115px;
+    color: white;
+}
+.img1-text1{
+    
+    font-family: 'korolev-rounded';
+    color: white;
+    text-transform: uppercase;
+    font-size:66px;
+    font-weight: 800;
+    margin-bottom: 32px;
+
+}
+.img1-text2{
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.recipe-text {
+    text-align: center;
+    position: absolute;
+    margin-top: -428px;
+    margin-left: 432px;
+    padding-bottom: 60px;
+    width: 650px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    
+}
+.banner2-text1{
+    text-transform: uppercase;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    color: #ffff;
+    font-weight: 500;
+    line-height: 39px;
+    margin-bottom: -12px;
+}
+.text-p{
+  
+    color:white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.recipe-link{
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+    text-decoration: none;
+    padding: 5px 29px;
+}
+
+.banner2{
+   
+    color: white;
+    text-align: center;
+    margin-top: -466px;
+    position: absolute;
+    width: 673px;
+    margin-left: 415px;
+}
+.data-text{
+    padding-bottom: 60px;
+   
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+}
+
+.banner2-h1{
+    text-transform: uppercase;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 33px;
+    color: #ffff;
+    font-weight: 500;
+    line-height: 39px;
+    margin-bottom: -24px;
+    padding: 18px 54px;
+}
+.banner2-p{
+    color:white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.link2{
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+    font-size: 19px;
+    font-family: 'korolev';
+    text-decoration: none;
+    padding: 5px 29px;
+}
+
+.footer{
+    background: #3e3e3e;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 150px;
+
+   
+}
+.utility{
+    gap: 30px;
+    font-size: xx-small;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+        text-align: center;
+    line-height: 14px;
+}
+.a2{
+    font-size: 13px;
+    font-weight: bold;
+}
+.footer-div{
+    margin-top: -26px;
+}
